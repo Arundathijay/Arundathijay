@@ -9,13 +9,15 @@
 
 :girl: ABOUT ME
 
-• Web Development Bootcamp in Ironhack
+• Completed Web Development Bootcamp in Ironhack
 
 • Skilled in JavaScript, React, CSS, HTML5, Node JS, MongoDB, Express JS, Relational Databases, GIT, and RESTful API. 
 
 Some of the projects I built individually and as a team; 
 • Developed a 2d canvas game using JavaScript, HTML, CSS, and bootstrap. (https://virus-hack.netlify.app/)
+
 • Developed a social media app where people can share their thoughts with friends using node Js, express js, sass, and Hbs. 
+
 • Developed a MERN stack app to use as a group chat where friends can create events to participate using React Js, node Js, express js, MongoDB, and CSS. (https://iron-gapp.netlify.app/)
 
 
